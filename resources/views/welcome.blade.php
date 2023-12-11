@@ -19,6 +19,42 @@
   <link rel="stylesheet" href="css/icomoon.css">
   <link rel="stylesheet" href="css/style.css">
   <script defer="" referrerpolicy="origin" src="js/s.js"></script>
+
+  <style>
+    .container-p{
+  margin:20px 40px;
+}
+h2{
+  font-size:32px;
+  font-weight:600;
+}
+h3{
+   font-size:20px;
+  font-weight:600;
+}
+.flex{
+  display:flex;
+  justify-content:center;
+  flex-wrap:wrap;
+}
+.flex-item{
+  width:33%;
+  margin:auto;
+  margin-top:20px;
+  
+}
+.card{
+  width:100%;
+}
+.icon{
+  border-radius:16px;
+  padding:10px 20px;
+    background-color:#f5f5f5;
+  display:inline-block;
+  text-align:center;
+}
+  </style>
+
   <!-- <script
     nonce="4c82c046-bc6a-4e09-b31a-bd18a99d067e">(function (w, d) { !function (j, k, l, m) { j[l] = j[l] || {}; j[l].executed = []; j.zaraz = { deferred: [], listeners: [] }; j.zaraz.q = []; j.zaraz._f = function (n) { return async function () { var o = Array.prototype.slice.call(arguments); j.zaraz.q.push({ m: n, a: o }) } }; for (const p of ["track", "set", "debug"]) j.zaraz[p] = j.zaraz._f(p); j.zaraz.init = () => { var q = k.getElementsByTagName(m)[0], r = k.createElement(m), s = k.getElementsByTagName("title")[0]; s && (j[l].t = k.getElementsByTagName("title")[0].text); j[l].x = Math.random(); j[l].w = j.screen.width; j[l].h = j.screen.height; j[l].j = j.innerHeight; j[l].e = j.innerWidth; j[l].l = j.location.href; j[l].r = k.referrer; j[l].k = j.screen.colorDepth; j[l].n = k.characterSet; j[l].o = (new Date).getTimezoneOffset(); if (j.dataLayer) for (const w of Object.entries(Object.entries(dataLayer).reduce(((x, y) => ({ ...x[1], ...y[1] })), {}))) zaraz.set(w[0], w[1], { scope: "page" }); j[l].q = []; for (; j.zaraz.q.length;) { const z = j.zaraz.q.shift(); j[l].q.push(z) } r.defer = !0; for (const A of [localStorage, sessionStorage]) Object.keys(A || {}).filter((C => C.startsWith("_zaraz_"))).forEach((B => { try { j[l]["z_" + B.slice(7)] = JSON.parse(A.getItem(B)) } catch { j[l]["z_" + B.slice(7)] = A.getItem(B) } })); r.referrerPolicy = "origin"; r.src = "/cdn-cgi/zaraz/s.js?z=" + btoa(encodeURIComponent(JSON.stringify(j[l]))); q.parentNode.insertBefore(r, q) };["complete", "interactive"].includes(k.readyState) ? zaraz.init() : j.addEventListener("DOMContentLoaded", zaraz.init) }(w, d, "zarazData", "script"); })(window, document);</script> -->
 </head>
@@ -52,7 +88,8 @@
       <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-end"
         data-scrollax-parent="true">
         <div class="col-md-6 ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
-          <h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Reputation, Respect, Result
+          <h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">WE WARMLY WELCOME TO
+            RELIABLE & FAST SERVICE
           </h1>
           <p class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">A small river named Duden
             flows by their place and supplies it with the necessary regelialia.</p>
@@ -75,7 +112,7 @@
                       <span class="flaticon-house"></span>
                     </div>
                     <strong class="number" data-number="50">0</strong>
-                    <span>Years of Experienced</span>
+                    <span>Translator Service</span>
                   </div>
                 </div>
               </div>
@@ -86,7 +123,7 @@
                       <span class="flaticon-handshake"></span>
                     </div>
                     <strong class="number" data-number="10000">0</strong>
-                    <span>Trusted Clients</span>
+                    <span>Nortary Service</span>
                   </div>
                 </div>
               </div>
@@ -97,7 +134,7 @@
                       <span class="flaticon-lawyer"></span>
                     </div>
                     <strong class="number" data-number="564">0</strong>
-                    <span>Qualified Lawyers</span>
+                    <span>Legal Advice</span>
                   </div>
                 </div>
               </div>
@@ -108,7 +145,7 @@
                       <span class="flaticon-medal"></span>
                     </div>
                     <strong class="number" data-number="300">0</strong>
-                    <span>Honors &amp; Awards</span>
+                    <span>Company Sectratial Service</span>
                   </div>
                 </div>
               </div>
@@ -136,12 +173,19 @@
           <div class="row justify-content-start py-3 py-lg-5">
             <div class="col-md-12 heading-section ftco-animate">
               <span class="subheading">Welcome</span>
-              <h2 class="mb-4" style="font-size: 44px; text-transform: capitalize;">Welcome to Neutral A Law Firm</h2>
-              <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a
-                paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
-              <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life
-                One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World
-                of Grammar.</p>
+              <h2 class="mb-4" style="font-size: 44px; text-transform: capitalize;">Welcome to ITranslator</h2>
+              <p>
+                Welcome to ITranstaler, your premier destination for hassle-free and high-speed document translation
+                services in Sri Lanka and around the worldI If you're gearing up for a journey abroad, whether it's for
+                study, work, or any other purpose, we've got you covered !.
+              </p>
+              <p>
+                At ITranstaler, we understand the importance of accurate and
+                reliable document translation in facilitating seamless communication across bordersI Our dedicated team
+                of language experts specializes n translating documents between Sinhala and English, ensuring that
+                your paperwork is not only linguistically sound but also culturally sensitiveI
+
+              </p>
             </div>
           </div>
         </div>
@@ -235,7 +279,7 @@
       <div class="row justify-content-center pb-5">
         <div class="col-md-10 heading-section text-center ftco-animate">
           <span class="subheading">Practice Areas</span>
-          <h2 class="mb-4">Practice Areas</h2>
+          <h2 class="mb-4">Our Translation Service Includes</h2>
           <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
         </div>
       </div>
@@ -243,31 +287,31 @@
         <div class="col-md-5 col-lg-3 ftco-animate py-4 nav-link-wrap">
           <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
             <a class="nav-link px-4 py-1 active" id="v-pills-1-tab" data-toggle="pill" href="#v-pills-1" role="tab"
-              aria-controls="v-pills-1" aria-selected="true"><span class="mr-3 flaticon-ideas"></span> Family Law</a>
+              aria-controls="v-pills-1" aria-selected="true"><span class="mr-3 flaticon-ideas"></span> Birth Certificates </a>
             <a class="nav-link px-4 py-1" id="v-pills-2-tab" data-toggle="pill" href="#v-pills-2" role="tab"
-              aria-controls="v-pills-2" aria-selected="false"><span class="mr-3 flaticon-flasks"></span> Business
-              Law</a>
+              aria-controls="v-pills-2" aria-selected="false"><span class="mr-3 flaticon-flasks"></span> Marriage Certificates </a>
             <a class="nav-link px-4 py-1" id="v-pills-3-tab" data-toggle="pill" href="#v-pills-3" role="tab"
-              aria-controls="v-pills-3" aria-selected="false"><span class="mr-3 flaticon-analysis"></span> Insurance
-              Law</a>
+              aria-controls="v-pills-3" aria-selected="false"><span class="mr-3 flaticon-analysis"></span> Death Certificates </a>
             <a class="nav-link px-4 py-1" id="v-pills-4-tab" data-toggle="pill" href="#v-pills-4" role="tab"
-              aria-controls="v-pills-4" aria-selected="false"><span class="mr-3 flaticon-web-design"></span> Criminal
-              Law</a>
+              aria-controls="v-pills-4" aria-selected="false"><span class="mr-3 flaticon-web-design"></span> National Identity Cards </a>
             <a class="nav-link px-4 py-1" id="v-pills-5-tab" data-toggle="pill" href="#v-pills-5" role="tab"
-              aria-controls="v-pills-5" aria-selected="false"><span class="mr-3 flaticon-innovation"></span> Employment
-              Law</a>
+              aria-controls="v-pills-5" aria-selected="false"><span class="mr-3 flaticon-innovation"></span> Exam Result Sheets </a>
             <a class="nav-link px-4 py-1" id="v-pills-6-tab" data-toggle="pill" href="#v-pills-6" role="tab"
-              aria-controls="v-pills-6" aria-selected="false"><span class="mr-3 flaticon-idea"></span> Fire Accident</a>
+              aria-controls="v-pills-6" aria-selected="false"><span class="mr-3 flaticon-idea"></span> Police Reports </a>
             <a class="nav-link px-4 py-1" id="v-pills-7-tab" data-toggle="pill" href="#v-pills-7" role="tab"
-              aria-controls="v-pills-7" aria-selected="false"><span class="mr-3 flaticon-idea"></span> Financial Law</a>
+              aria-controls="v-pills-7" aria-selected="false"><span class="mr-3 flaticon-idea"></span> Deeds</a>
             <a class="nav-link px-4 py-1" id="v-pills-8-tab" data-toggle="pill" href="#v-pills-8" role="tab"
-              aria-controls="v-pills-8" aria-selected="false"><span class="mr-3 flaticon-idea"></span> Drug Offenses</a>
+              aria-controls="v-pills-8" aria-selected="false"><span class="mr-3 flaticon-idea"></span> Title Reports </a>
             <a class="nav-link px-4 py-1" id="v-pills-9-tab" data-toggle="pill" href="#v-pills-9" role="tab"
-              aria-controls="v-pills-9" aria-selected="false"><span class="mr-3 flaticon-idea"></span> Sexual
-              Offenses</a>
+              aria-controls="v-pills-9" aria-selected="false"><span class="mr-3 flaticon-idea"></span> Affidavits </a>
             <a class="nav-link px-4 py-1" id="v-pills-10-tab" data-toggle="pill" href="#v-pills-10" role="tab"
-              aria-controls="v-pills-10" aria-selected="false"><span class="mr-3 flaticon-ux-design"></span> Property
-              Law</a>
+              aria-controls="v-pills-10" aria-selected="false"><span class="mr-3 flaticon-ux-design"></span> Other Exam Certificates </a>
+              <a class="nav-link px-4 py-1" id="v-pills-10-tab" data-toggle="pill" href="#v-pills-10" role="tab"
+              aria-controls="v-pills-10" aria-selected="false"><span class="mr-3 flaticon-ux-design"></span> Other certificates </a>
+              <a class="nav-link px-4 py-1" id="v-pills-10-tab" data-toggle="pill" href="#v-pills-10" role="tab"
+              aria-controls="v-pills-10" aria-selected="false"><span class="mr-3 flaticon-ux-design"></span> Character Certificates  </a>
+              <a class="nav-link px-4 py-1" id="v-pills-10-tab" data-toggle="pill" href="#v-pills-10" role="tab"
+              aria-controls="v-pills-10" aria-selected="false"><span class="mr-3 flaticon-ux-design"></span> All types of Documents </a>
           </div>
         </div>
         <div class="col-md-7 col-lg-9 ftco-animate p-4 p-md-5 d-flex align-items-center">
@@ -440,100 +484,76 @@
   </section>
   <section class="ftco-section bg-light" id="attorneys-section">
     <div class="container">
-      <div class="row justify-content-center pb-5">
-        <div class="col-md-10 heading-section text-center ftco-animate">
-          <span class="subheading">About Us</span>
-          <h2 class="mb-4">Our Legal Attorneys</h2>
-          <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
-        </div>
+      <h2> Reason For Choosing Us</h2>
+      <div class="flex">
+         <div class="flex-item">
+            <div class="card">
+              <div class="icon">
+                <img src="https://uxwing.com/wp-content/themes/uxwing/download/03-editing-user-action/lock.svg" loading="lazy" height="25" width="25">
+              </div>
+               
+               <h3>Globally Recognized </h3>
+               <p>
+                Our translation is globally recognized and validated with Sworn Translator seal, performed by a professional certified translator
+               </P>
+            </div>
+         </div>
+         <div class="flex-item">
+            <div class="card">
+              <div class="icon">
+               <img src="https://uxwing.com/wp-content/themes/uxwing/download/42-business-professional-services/operations.svg" loading="lazy" height="25" width="25">
+              </div>
+               <h3>Services are provided to cover all areas of the islandI </h3>
+               <p>
+                  Lorem Ipsum has been the industry's standard dummy text ever since 
+               </P>
+            </div>
+         </div>
+         <div class="flex-item">
+            <div class="card">
+              <div class="icon">
+               <img src="https://uxwing.com/wp-content/themes/uxwing/download/33-tools-equipment-construction/settings-gear.svg" loading="lazy" height="25" width="25">
+              </div>
+               <h3>Friendly Customer Support</h3>
+               <p>
+                  Lorem Ipsum has been the industry's standard dummy text ever since 
+               </P>
+            </div>
+         </div>
+         <div class="flex-item">
+            <div class="card">
+              <div class="icon">
+               <img src="https://uxwing.com/wp-content/themes/uxwing/download/19-e-commerce-currency-shopping/cart-plus.svg" loading="lazy" height="25" width="25">
+              </div>
+               <h3>Trusted by more People</h3>
+               <p>
+                  Lorem Ipsum has been the industry's standard dummy text ever since 
+               </P>
+            </div>
+         </div>
+         <div class="flex-item">
+            <div class="card">
+              <div class="icon">
+               <img src="https://uxwing.com/wp-content/themes/uxwing/download/19-e-commerce-currency-shopping/wifi-internet-bill.svg" loading="lazy" height="25" width="25"></div>
+               <h3>Invoicing</h3>
+               <p>
+                  Lorem Ipsum has been the industry's standard dummy text ever since 
+               </P>
+            </div>
+         </div>
+    <div class="flex-item">
+            <div class="card">
+              <div class="icon">
+               <img src="https://uxwing.com/wp-content/themes/uxwing/download/16-banking-finance/payment.svg" loading="lazy" height="25" width="25"></div>
+               <h3>Recurring Payment</h3>
+               <p>
+                  Lorem Ipsum has been the industry's standard dummy text ever since 
+               </P>
+            </div>
+         </div>
       </div>
-      <div class="row">
-        <div class="col-md-6 col-lg-3 ftco-animate">
-          <div class="staff">
-            <div class="img-wrap d-flex align-items-stretch">
-              <div class="img align-self-stretch" style="background-image: url(images/staff-1.jpg);"></div>
-            </div>
-            <div class="text d-flex align-items-center pt-3 text-center">
-              <div>
-                <h3 class="mb-2">Lloyd Wilson</h3>
-                <span class="position mb-4">CEO, Founder</span>
-                <div class="faded">
-                  <ul class="ftco-social text-center">
-                    <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-                    <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-                    <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
-                    <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-6 col-lg-3 ftco-animate">
-          <div class="staff">
-            <div class="img-wrap d-flex align-items-stretch">
-              <div class="img align-self-stretch" style="background-image: url(images/staff-2.jpg);"></div>
-            </div>
-            <div class="text d-flex align-items-center pt-3 text-center">
-              <div>
-                <h3 class="mb-2">Rachel Parker</h3>
-                <span class="position mb-4">Business Lawyer</span>
-                <div class="faded">
-                  <ul class="ftco-social text-center">
-                    <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-                    <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-                    <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
-                    <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-6 col-lg-3 ftco-animate">
-          <div class="staff">
-            <div class="img-wrap d-flex align-items-stretch">
-              <div class="img align-self-stretch" style="background-image: url(images/staff-3.jpg);"></div>
-            </div>
-            <div class="text d-flex align-items-center pt-3 text-center">
-              <div>
-                <h3 class="mb-2">Ian Smith</h3>
-                <span class="position mb-4">Insurance Lawyer</span>
-                <div class="faded">
-                  <ul class="ftco-social text-center">
-                    <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-                    <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-                    <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
-                    <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-6 col-lg-3 ftco-animate">
-          <div class="staff">
-            <div class="img-wrap d-flex align-items-stretch">
-              <div class="img align-self-stretch" style="background-image: url(images/staff-4.jpg);"></div>
-            </div>
-            <div class="text d-flex align-items-center pt-3 text-center">
-              <div>
-                <h3 class="mb-2">Alicia Henderson</h3>
-                <span class="position mb-4">Criminal Law</span>
-                <div class="faded">
-                  <ul class="ftco-social text-center">
-                    <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-                    <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-                    <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
-                    <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+   </div>
+   
   </section>
   <section class="ftco-section" id="blog-section">
     <div class="container">
