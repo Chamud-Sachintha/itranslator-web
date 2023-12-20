@@ -524,7 +524,7 @@ h3{
   </section>
   <section class="ftco-section bg-light" id="attorneys-section">
     <div class="container">
-      <h2> Reason For Choosing Us</h2>
+      <h2> Reason For Choosing Us.</h2>
       <br>
 
         <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4" style="margin-bottom: 20px;">
