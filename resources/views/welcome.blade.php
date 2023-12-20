@@ -49,7 +49,7 @@ h3{
 .icon{
   border-radius:16px;
   padding:10px 20px;
-    background-color:#f5f5f5;
+    /* background-color:#f5f5f5; */
   display:inline-block;
   text-align:center;
 }
@@ -63,7 +63,7 @@ h3{
   <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light site-navbar-target"
     id="ftco-navbar">
     <div class="container">
-      <a class="navbar-brand" href="index.html">Neutral</a>
+      <a class="navbar-brand" href="index.html"><img src="images/i translate logo.png" alt="logo" style ="max-width:70px;"></a>
       <button class="navbar-toggler js-fh5co-nav-toggle fh5co-nav-toggle" type="button" data-toggle="collapse"
         data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="oi oi-menu"></span> Menu
@@ -82,10 +82,10 @@ h3{
       </div>
     </div>
   </nav>
-  <section class="hero-wrap js-fullheight" style="background-image: url('images/bg_1.jpg');" data-section="home">
+  <section class="hero-wrap js-fullheight" style="background-image: url('images/h1-slider1.jpg');" data-section="home">
     <div class="overlay"></div>
     <div class="container">
-      <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-end"
+      <div class="row no-gutters slider-text js-fullheight align-items-center "
         data-scrollax-parent="true">
         <div class="col-md-6 ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
           <h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">WE WARMLY WELCOME TO
@@ -160,12 +160,12 @@ h3{
       <div class="row d-flex">
         <div class="col-md-6 col-lg-6 d-flex order-md-last">
           <div class="img-about img d-flex align-items-stretch">
-            <div class="img d-flex align-self-stretch align-items-end" style="background-image:url(images/about.jpg);">
-              <a href="https://vimeo.com/45830194"
+            <div class="img d-flex align-self-stretch align-items-end" style="background-image:url(images/lawyer.jpeg);">
+              <!-- <a href="https://vimeo.com/45830194"
                 class="icon-video popup-vimeo d-flex justify-content-center align-items-center mr-3">
                 <span class="ion-ios-play play mr-2"></span>
                 <span class="watch">Watch Video</span>
-              </a>
+              </a> -->
             </div>
           </div>
         </div>
@@ -184,7 +184,7 @@ h3{
                 reliable document translation in facilitating seamless communication across bordersI Our dedicated team
                 of language experts specializes n translating documents between Sinhala and English, ensuring that
                 your paperwork is not only linguistically sound but also culturally sensitiveI
-
+                dsd
               </p>
             </div>
           </div>
@@ -280,7 +280,7 @@ h3{
         <div class="col-md-10 heading-section text-center ftco-animate">
           <span class="subheading">Practice Areas</span>
           <h2 class="mb-4">Our Translation Service Includes</h2>
-          <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+          <p>Step into a realm of precise and reliable legal document translations with our dedicated services.</p>
         </div>
       </div>
       <div class="row no-gutters">
@@ -306,12 +306,16 @@ h3{
               aria-controls="v-pills-9" aria-selected="false"><span class="mr-3 flaticon-idea"></span> Affidavits </a>
             <a class="nav-link px-4 py-1" id="v-pills-10-tab" data-toggle="pill" href="#v-pills-10" role="tab"
               aria-controls="v-pills-10" aria-selected="false"><span class="mr-3 flaticon-ux-design"></span> Other Exam Certificates </a>
-              <a class="nav-link px-4 py-1" id="v-pills-10-tab" data-toggle="pill" href="#v-pills-10" role="tab"
-              aria-controls="v-pills-10" aria-selected="false"><span class="mr-3 flaticon-ux-design"></span> Other certificates </a>
-              <a class="nav-link px-4 py-1" id="v-pills-10-tab" data-toggle="pill" href="#v-pills-10" role="tab"
-              aria-controls="v-pills-10" aria-selected="false"><span class="mr-3 flaticon-ux-design"></span> Character Certificates  </a>
-              <a class="nav-link px-4 py-1" id="v-pills-10-tab" data-toggle="pill" href="#v-pills-10" role="tab"
-              aria-controls="v-pills-10" aria-selected="false"><span class="mr-3 flaticon-ux-design"></span> All types of Documents </a>
+              <a class="nav-link px-4 py-1" id="v-pills-11-tab" data-toggle="pill" href="#v-pills-11" role="tab"
+              aria-controls="v-pills-11" aria-selected="false"><span class="mr-3 flaticon-ux-design"></span> School Leaving Certificates </a>
+              <a class="nav-link px-4 py-1" id="v-pills-12-tab" data-toggle="pill" href="#v-pills-12" role="tab"
+              aria-controls="v-pills-12" aria-selected="false"><span class="mr-3 flaticon-ux-design"></span> Other certificates </a>
+              <a class="nav-link px-4 py-1" id="v-pills-13-tab" data-toggle="pill" href="#v-pills-13" role="tab"
+              aria-controls="v-pills-13" aria-selected="false"><span class="mr-3 flaticon-ux-design"></span> Grama Niladhari Certificates </a>
+              <a class="nav-link px-4 py-1" id="v-pills-14-tab" data-toggle="pill" href="#v-pills-14" role="tab"
+              aria-controls="v-pills-14" aria-selected="false"><span class="mr-3 flaticon-ux-design"></span> Character Certificates </a>
+              <a class="nav-link px-4 py-1" id="v-pills-15-tab" data-toggle="pill" href="#v-pills-15" role="tab"
+              aria-controls="v-pills-15" aria-selected="false"><span class="mr-3 flaticon-ux-design"></span> All Types of Legal/Other Documents </a>
           </div>
         </div>
         <div class="col-md-7 col-lg-9 ftco-animate p-4 p-md-5 d-flex align-items-center">
@@ -320,15 +324,12 @@ h3{
               aria-labelledby="v-pills-1-tab">
               <div class="d-lg-flex">
                 <div class="icon-law mr-md-4 mr-lg-5">
-                  <span class="icon mb-3 d-block flaticon-family"></span>
+                  <!-- <span class="icon mb-3 d-block flaticon-family"></span> -->
                 </div>
                 <div class="text">
-                  <h2 class="mb-4">Family Law</h2>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt voluptate, quibusdam sunt iste
-                    dolores consequatur</p>
-                  <p>Inventore fugit error iure nisi reiciendis fugiat illo pariatur quam sequi quod iusto facilis
-                    officiis nobis sit quis molestias asperiores rem, blanditiis! Commodi exercitationem vitae deserunt
-                    qui nihil ea, tempore et quam natus quaerat doloremque.</p>
+                  <h2 class="mb-4">Ensuring Global Identity</h2>
+                  <p>Birth certificates are crucial documents that capture the fundamental details of an individual's identity, including their name, date, and place of birth. Our translation services ensure the global recognition of these vital records, meticulously conveying the information accurately. This precision becomes particularly significant in cross-border scenarios, facilitating seamless identification and official acknowledgment.</p>
+                  <p>Whether for immigration purposes, international travel, or legal transactions, our translations uphold the integrity of birth certificates, providing individuals with reliable documentation that transcends cultural and linguistic boundaries.</p>
                   <p><a href="#" class="btn btn-primary px-4 py-3">Learn More</a></p>
                 </div>
               </div>
@@ -336,15 +337,12 @@ h3{
             <div class="tab-pane fade py-0 py-lg-5" id="v-pills-2" role="tabpanel" aria-labelledby="v-pills-2-tab">
               <div class="d-lg-flex">
                 <div class="icon-law mr-md-4 mr-lg-5">
-                  <span class="icon mb-3 d-block flaticon-auction"></span>
+                  <!-- <span class="icon mb-3 d-block flaticon-auction"></span> -->
                 </div>
                 <div class="text">
-                  <h2 class="mb-4">Business Law</h2>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt voluptate, quibusdam sunt iste
-                    dolores consequatur</p>
-                  <p>Inventore fugit error iure nisi reiciendis fugiat illo pariatur quam sequi quod iusto facilis
-                    officiis nobis sit quis molestias asperiores rem, blanditiis! Commodi exercitationem vitae deserunt
-                    qui nihil ea, tempore et quam natus quaerat doloremque.</p>
+                  <h2 class="mb-4">Union Across Borders</h2>
+                  <p>Marriage certificates hold profound significance as legal affirmations of a union. Our translation services focus on the meticulous interpretation of crucial details within these documents to facilitate international acknowledgment. We recognize the importance of preserving the legal clarity and acceptance of marital records across diverse cultural and linguistic landscapes.</p>
+                  <p>Couples navigating cross-border scenarios can trust our services to accurately convey the intricacies of their marriage certificates. By ensuring precision in translation, we contribute to the seamless recognition of marriages globally, upholding the sanctity of these unions in various legal and cultural contexts.</p>
                   <p><a href="#" class="btn btn-primary px-4 py-3">Learn More</a></p>
                 </div>
               </div>
@@ -352,15 +350,12 @@ h3{
             <div class="tab-pane fade py-0 py-lg-5" id="v-pills-3" role="tabpanel" aria-labelledby="v-pills-3-tab">
               <div class="d-lg-flex">
                 <div class="icon-law mr-md-4 mr-lg-5">
-                  <span class="icon mb-3 d-block flaticon-shield"></span>
+                  <!-- <span class="icon mb-3 d-block flaticon-shield"></span> -->
                 </div>
                 <div class="text">
-                  <h2 class="mb-4">Insurance Law</h2>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt voluptate, quibusdam sunt iste
-                    dolores consequatur</p>
-                  <p>Inventore fugit error iure nisi reiciendis fugiat illo pariatur quam sequi quod iusto facilis
-                    officiis nobis sit quis molestias asperiores rem, blanditiis! Commodi exercitationem vitae deserunt
-                    qui nihil ea, tempore et quam natus quaerat doloremque.</p>
+                  <h2 class="mb-4">Sensitive Translations</h2>
+                  <p>Death certificates encapsulate sensitive information and play a vital role in legal and administrative processes. Our translation services approach the task with utmost care, maintaining the confidentiality and accuracy of the details within these documents.</p>
+                  <p>Whether for international legal proceedings, estate matters, or other cross-cultural engagements, our translations ensure that the gravity and sensitivity of death certificates are preserved. Families and individuals can rely on our services for clear, culturally sensitive translations that facilitate understanding and recognition on a global scale.</p>
                   <p><a href="#" class="btn btn-primary px-4 py-3">Learn More</a></p>
                 </div>
               </div>
@@ -368,15 +363,12 @@ h3{
             <div class="tab-pane fade py-0 py-lg-5" id="v-pills-4" role="tabpanel" aria-labelledby="v-pills-4-tab">
               <div class="d-lg-flex">
                 <div class="icon-law mr-md-4 mr-lg-5">
-                  <span class="icon mb-3 d-block flaticon-handcuffs"></span>
+                  <!-- <span class="icon mb-3 d-block flaticon-handcuffs"></span> -->
                 </div>
                 <div class="text">
-                  <h2 class="mb-4">Criminal Law</h2>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt voluptate, quibusdam sunt iste
-                    dolores consequatur</p>
-                  <p>Inventore fugit error iure nisi reiciendis fugiat illo pariatur quam sequi quod iusto facilis
-                    officiis nobis sit quis molestias asperiores rem, blanditiis! Commodi exercitationem vitae deserunt
-                    qui nihil ea, tempore et quam natus quaerat doloremque.</p>
+                  <h2 class="mb-4">Identity Beyond Borders</h2>
+                  <p>National identity cards serve as key documents for personal identification, and our translation services cater to individuals navigating international scenarios. We understand the importance of accurately translating the key personal details contained in these cards to ensure worldwide recognition.</p>
+                  <p>Our meticulous approach to translation contributes to the seamless identification of individuals across borders, supporting their participation in various international activities, from travel to legal transactions. With our services, clients can trust that their national identity is accurately conveyed, facilitating a smooth transition in diverse cultural and linguistic environments.</p>
                   <p><a href="#" class="btn btn-primary px-4 py-3">Learn More</a></p>
                 </div>
               </div>
@@ -384,15 +376,12 @@ h3{
             <div class="tab-pane fade py-0 py-lg-5" id="v-pills-5" role="tabpanel" aria-labelledby="v-pills-5-tab">
               <div class="d-lg-flex">
                 <div class="icon-law mr-md-4 mr-lg-5">
-                  <span class="icon mb-3 d-block flaticon-employee"></span>
+                  <!-- <span class="icon mb-3 d-block flaticon-employee"></span> -->
                 </div>
                 <div class="text">
-                  <h2 class="mb-4">Employment Law</h2>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt voluptate, quibusdam sunt iste
-                    dolores consequatur</p>
-                  <p>Inventore fugit error iure nisi reiciendis fugiat illo pariatur quam sequi quod iusto facilis
-                    officiis nobis sit quis molestias asperiores rem, blanditiis! Commodi exercitationem vitae deserunt
-                    qui nihil ea, tempore et quam natus quaerat doloremque.</p>
+                  <h2 class="mb-4">Academic Achievements Worldwide</h2>
+                  <p>Academic achievements are often documented in exam result sheets, and our translation services focus on providing clear and concise interpretations of these records. Whether for educational pursuits, professional endeavors, or international recognition, our translations enhance the accessibility and comprehension of exam results on a global scale.</p>
+                  <p>We understand the importance of accurately conveying the nuances of academic accomplishments, contributing to the international acceptance of these achievements. Students, professionals, and educational institutions can rely on our services for precise translations that uphold the integrity and clarity of exam result sheets.</p>
                   <p><a href="#" class="btn btn-primary px-4 py-3">Learn More</a></p>
                 </div>
               </div>
@@ -400,15 +389,12 @@ h3{
             <div class="tab-pane fade py-0 py-lg-5" id="v-pills-6" role="tabpanel" aria-labelledby="v-pills-6-tab">
               <div class="d-lg-flex">
                 <div class="icon-law mr-md-4 mr-lg-5">
-                  <span class="icon mb-3 d-block flaticon-fire"></span>
+                  <!-- <span class="icon mb-3 d-block flaticon-fire"></span> -->
                 </div>
                 <div class="text">
-                  <h2 class="mb-4">Fire Accident</h2>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt voluptate, quibusdam sunt iste
-                    dolores consequatur</p>
-                  <p>Inventore fugit error iure nisi reiciendis fugiat illo pariatur quam sequi quod iusto facilis
-                    officiis nobis sit quis molestias asperiores rem, blanditiis! Commodi exercitationem vitae deserunt
-                    qui nihil ea, tempore et quam natus quaerat doloremque.</p>
+                  <h2 class="mb-4">Legal Nuances Across Cultures</h2>
+                  <p>Police reports contain crucial details and legal nuances that require accurate translation for international applications and legal proceedings. Our translation services approach the task with precision, ensuring that the integrity of the information is preserved. Whether for legal matters, background checks, or cross-border communication, our translations facilitate clear understanding and communication in diverse cultural contexts.</p>
+                  <p>We recognize the sensitivity of police reports and provide translations that maintain the legal weight and accuracy of the original documents, supporting individuals and organizations involved in international legal processes.</p>
                   <p><a href="#" class="btn btn-primary px-4 py-3">Learn More</a></p>
                 </div>
               </div>
@@ -416,15 +402,12 @@ h3{
             <div class="tab-pane fade py-0 py-lg-5" id="v-pills-7" role="tabpanel" aria-labelledby="v-pills-7-tab">
               <div class="d-lg-flex">
                 <div class="icon-law mr-md-4 mr-lg-5">
-                  <span class="icon mb-3 d-block flaticon-money"></span>
+                  <!-- <span class="icon mb-3 d-block flaticon-money"></span> -->
                 </div>
                 <div class="text">
-                  <h2 class="mb-4">Financial Law</h2>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt voluptate, quibusdam sunt iste
-                    dolores consequatur</p>
-                  <p>Inventore fugit error iure nisi reiciendis fugiat illo pariatur quam sequi quod iusto facilis
-                    officiis nobis sit quis molestias asperiores rem, blanditiis! Commodi exercitationem vitae deserunt
-                    qui nihil ea, tempore et quam natus quaerat doloremque.</p>
+                  <h2 class="mb-4">Property Matters Abroad</h2>
+                  <p>Property-related documents, such as deeds, demand precise translation to ensure clarity in cross-cultural real estate transactions and legal agreements. Our translation services focus on accurately conveying the details within these documents, supporting individuals and businesses engaged in international property dealings.</p>
+                  <p>Whether for real estate transactions, legal proceedings, or other cross-border activities, our translations uphold the legal and business implications of deeds. Clients can rely on our meticulous approach to translation to navigate diverse cultural landscapes while ensuring the accuracy and legality of property-related documents.</p>
                   <p><a href="#" class="btn btn-primary px-4 py-3">Learn More</a></p>
                 </div>
               </div>
@@ -432,15 +415,12 @@ h3{
             <div class="tab-pane fade py-0 py-lg-5" id="v-pills-8" role="tabpanel" aria-labelledby="v-pills-8-tab">
               <div class="d-lg-flex">
                 <div class="icon-law mr-md-4 mr-lg-5">
-                  <span class="icon mb-3 d-block flaticon-medicine"></span>
+                  <!-- <span class="icon mb-3 d-block flaticon-medicine"></span> -->
                 </div>
                 <div class="text">
-                  <h2 class="mb-4">Drug Offenses</h2>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt voluptate, quibusdam sunt iste
-                    dolores consequatur</p>
-                  <p>Inventore fugit error iure nisi reiciendis fugiat illo pariatur quam sequi quod iusto facilis
-                    officiis nobis sit quis molestias asperiores rem, blanditiis! Commodi exercitationem vitae deserunt
-                    qui nihil ea, tempore et quam natus quaerat doloremque.</p>
+                  <h2 class="mb-4">Ownership Across Borders</h2>
+                  <p>Title reports provide essential information about property ownership, and our translation services aim to enable a comprehensive understanding of these details across borders. We recognize the importance of accurately conveying the nuances of title reports for legal and business purposes.</p>
+                  <p>Our meticulous translations ensure that individuals and entities involved in international transactions have access to clear and reliable information about property ownership. Whether for real estate deals, legal proceedings, or business negotiations, our services contribute to the seamless cross-border communication and understanding of title reports.</p>
                   <p><a href="#" class="btn btn-primary px-4 py-3">Learn More</a></p>
                 </div>
               </div>
@@ -448,15 +428,12 @@ h3{
             <div class="tab-pane fade py-0 py-lg-5" id="v-pills-9" role="tabpanel" aria-labelledby="v-pills-9-tab">
               <div class="d-lg-flex">
                 <div class="icon-law mr-md-4 mr-lg-5">
-                  <span class="icon mb-3 d-block flaticon-handcuffs"></span>
+                  <!-- <span class="icon mb-3 d-block flaticon-handcuffs"></span> -->
                 </div>
                 <div class="text">
-                  <h2 class="mb-4">Sexual Offenses</h2>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt voluptate, quibusdam sunt iste
-                    dolores consequatur</p>
-                  <p>Inventore fugit error iure nisi reiciendis fugiat illo pariatur quam sequi quod iusto facilis
-                    officiis nobis sit quis molestias asperiores rem, blanditiis! Commodi exercitationem vitae deserunt
-                    qui nihil ea, tempore et quam natus quaerat doloremque.</p>
+                  <h2 class="mb-4">Legal Statements Internationally</h2>
+                  <p>Affidavits are legal statements with significant implications, and our translation services approach the task with utmost precision to maintain the integrity of sworn declarations. Whether for international legal proceedings, immigration matters, or other cross-border legal engagements, our translations ensure that the statements are accurately conveyed.</p>
+                  <p>We recognize the legal weight of affidavits and provide translations that uphold the authenticity and clarity of the original documents. Clients can trust our services to navigate the complexities of cross-border legal processes with accurate and reliable translations of affidavits.</p>
                   <p><a href="#" class="btn btn-primary px-4 py-3">Learn More</a></p>
                 </div>
               </div>
@@ -464,15 +441,76 @@ h3{
             <div class="tab-pane fade py-0 py-lg-5" id="v-pills-10" role="tabpanel" aria-labelledby="v-pills-10-tab">
               <div class="d-lg-flex">
                 <div class="icon-law mr-md-4 mr-lg-5">
-                  <span class="icon mb-3 d-block flaticon-house"></span>
+                  <!-- <span class="icon mb-3 d-block flaticon-house"></span> -->
                 </div>
                 <div class="text">
-                  <h2 class="mb-4">Property Law</h2>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt voluptate, quibusdam sunt iste
-                    dolores consequatur</p>
-                  <p>Inventore fugit error iure nisi reiciendis fugiat illo pariatur quam sequi quod iusto facilis
-                    officiis nobis sit quis molestias asperiores rem, blanditiis! Commodi exercitationem vitae deserunt
-                    qui nihil ea, tempore et quam natus quaerat doloremque.</p>
+                  <h2 class="mb-4">Precision in Exam Certificates</h2>
+                  <p>Academic achievements span a diverse range of certificates, and our translation services cater to the accurate conveyance of various exam certificates. Whether for professional recognition, educational pursuits, or international endeavors, our translations meet global standards for acceptance.</p>
+                  <p>We understand the nuances of different types of exam certificates and ensure that the information is accurately translated to facilitate clear understanding and recognition on an international scale. Students, professionals, and educational institutions can rely on our services for precise translations that uphold the integrity and relevance of various exam certificates.</p>
+                  <p><a href="#" class="btn btn-primary px-4 py-3">Learn More</a></p>
+                </div>
+              </div>
+            </div>
+            <div class="tab-pane fade py-0 py-lg-5" id="v-pills-11" role="tabpanel" aria-labelledby="v-pills-10-tab">
+              <div class="d-lg-flex">
+                <div class="icon-law mr-md-4 mr-lg-5">
+                  <!-- <span class="icon mb-3 d-block flaticon-house"></span> -->
+                </div>
+                <div class="text">
+                  <h2 class="mb-4">Translations for Educational Records</h2>
+                  <p>School leaving certificates play a crucial role in educational transitions, and our translation services focus on providing precise interpretations of these documents. Whether for international students, professionals, or individuals changing educational systems, our translations ensure global recognition.</p>
+                  <p>We understand the significance of accurately conveying the details within school leaving certificates to maintain the consistency and validity of academic records. Clients can trust our services to facilitate smooth educational transitions with accurate translations that uphold the integrity of school leaving certificates in diverse cultural and linguistic environments.</p>
+                  <p><a href="#" class="btn btn-primary px-4 py-3">Learn More</a></p>
+                </div>
+              </div>
+            </div>
+            <div class="tab-pane fade py-0 py-lg-5" id="v-pills-12" role="tabpanel" aria-labelledby="v-pills-10-tab">
+              <div class="d-lg-flex">
+                <div class="icon-law mr-md-4 mr-lg-5">
+                  <!-- <span class="icon mb-3 d-block flaticon-house"></span> -->
+                </div>
+                <div class="text">
+                  <h2 class="mb-4">Tailored Translation Solutions</h2>
+                  <p>The diversity of certification needs is met with our tailored translation services for various document types. Whether for professional, personal, or organizational purposes, our translations address unique requirements with precision. We understand the importance of accurately conveying information in diverse certificates to meet specific client needs. Our services ensure that the details within each certificate are faithfully translated, supporting individuals and organizations in international contexts.</p>
+                  <p>Clients can rely on our expertise to provide clear and reliable translations for a wide range of certificates, contributing to their effectiveness and relevance in diverse cultural and linguistic landscapes.</p>
+                  <p><a href="#" class="btn btn-primary px-4 py-3">Learn More</a></p>
+                </div>
+              </div>
+            </div>
+            <div class="tab-pane fade py-0 py-lg-5" id="v-pills-13" role="tabpanel" aria-labelledby="v-pills-10-tab">
+              <div class="d-lg-flex">
+                <div class="icon-law mr-md-4 mr-lg-5">
+                  <!-- <span class="icon mb-3 d-block flaticon-house"></span> -->
+                </div>
+                <div class="text">
+                  <h2 class="mb-4">Translating Government Certificates</h2>
+                  <p>Local government certificates, such as Grama Niladhari certificates, require faithful translation to ensure clarity in administrative processes and official recognition. Our translation services uphold the authenticity of these certificates, providing accurate interpretations for individuals and organizations interacting with local authorities. </p>
+                  <p>Whether for administrative purposes, legal matters, or other local engagements, our translations facilitate clear communication and understanding. We recognize the importance of accurately conveying the details within Grama Niladhari certificates to support individuals in their interactions with local government entities.</p>
+                  <p><a href="#" class="btn btn-primary px-4 py-3">Learn More</a></p>
+                </div>
+              </div>
+            </div>
+            <div class="tab-pane fade py-0 py-lg-5" id="v-pills-14" role="tabpanel" aria-labelledby="v-pills-10-tab">
+              <div class="d-lg-flex">
+                <div class="icon-law mr-md-4 mr-lg-5">
+                  <!-- <span class="icon mb-3 d-block flaticon-house"></span> -->
+                </div>
+                <div class="text">
+                  <h2 class="mb-4">Reflecting Personal Traits in Translations</h2>
+                  <p>Character certificates provide insights into an individual's attributes, and our translation services aim to reflect these characteristics accurately. Whether for employment, educational pursuits, or other international reference checks, our translations contribute to clear and reliable communication. We understand the significance of accurately conveying personal attributes in character certificates to facilitate trust and understanding in cross-border engagements.</p>
+                  <p>Clients can trust our services to provide precise translations that uphold the authenticity and relevance of character certificates in diverse cultural and professional contexts.</p>
+                  <p><a href="#" class="btn btn-primary px-4 py-3">Learn More</a></p>
+                </div>
+              </div>
+            </div>
+            <div class="tab-pane fade py-0 py-lg-5" id="v-pills-14" role="tabpanel" aria-labelledby="v-pills-10-tab">
+              <div class="d-lg-flex">
+                <div class="icon-law mr-md-4 mr-lg-5">
+                  <!-- <span class="icon mb-3 d-block flaticon-house"></span> -->
+                </div>
+                <div class="text">
+                  <h2 class="mb-4">Versatile Translations</h2>
+                  <p>Our translation services cater to a broad spectrum of legal and miscellaneous documents, offering precise translations for each document type. Whether for legal proceedings, business transactions, or personal matters, our translations ensure accuracy and compliance with international standards. We understand the unique requirements of each document type and tailor our services to meet specific client needs. Clients can rely on our expertise to provide clear</p>
                   <p><a href="#" class="btn btn-primary px-4 py-3">Learn More</a></p>
                 </div>
               </div>
@@ -481,80 +519,140 @@ h3{
         </div>
       </div>
     </div>
+
+<!-- <cards Reason For Choosing Us "> -->
   </section>
   <section class="ftco-section bg-light" id="attorneys-section">
     <div class="container">
       <h2> Reason For Choosing Us</h2>
-      <div class="flex">
-         <div class="flex-item">
-            <div class="card">
-              <div class="icon">
-                <img src="https://uxwing.com/wp-content/themes/uxwing/download/03-editing-user-action/lock.svg" loading="lazy" height="25" width="25">
+      <br>
+
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4" style="margin-bottom: 20px;">
+          <div class="col">
+            <div class="infocard">
+              <h3>Our translations are globally recognized and validated, bearing the Sworn Translator seal, ensuring precision through the expertise of certified professionals.
+                </h3>
+              <div style="text-align: end;">
+                <a href="#"><span class="circleOrange">1</span></a>
               </div>
-               
-               <h3>Globally Recognized </h3>
-               <p>
-                Our translation is globally recognized and validated with Sworn Translator seal, performed by a professional certified translator
-               </P>
             </div>
-         </div>
-         <div class="flex-item">
-            <div class="card">
-              <div class="icon">
-               <img src="https://uxwing.com/wp-content/themes/uxwing/download/42-business-professional-services/operations.svg" loading="lazy" height="25" width="25">
+          </div>
+          <div class="col">
+            <div class="infocard">
+              <h3>We extend our services to cover all corners of the island, providing accessibility and convenience to clients across diverse regions.</h3> 
+              <div style="text-align: end;">
+                <br>
+                <a href="#"><span class="circleOrange">2</span></a>
               </div>
-               <h3>Services are provided to cover all areas of the islandI </h3>
-               <p>
-                  Lorem Ipsum has been the industry's standard dummy text ever since 
-               </P>
             </div>
-         </div>
-         <div class="flex-item">
-            <div class="card">
-              <div class="icon">
-               <img src="https://uxwing.com/wp-content/themes/uxwing/download/33-tools-equipment-construction/settings-gear.svg" loading="lazy" height="25" width="25">
+          </div>
+          <div class="col">
+            <div class="infocard">
+              <h3>Our dedicated customer support team offers a friendly and responsive experience, ensuring that your inquiries and concerns are addressed with care.</h3>
+              <div style="text-align: end;">
+                <a href="#"><span class="circleOrange">3</span></a>
               </div>
-               <h3>Friendly Customer Support</h3>
-               <p>
-                  Lorem Ipsum has been the industry's standard dummy text ever since 
-               </P>
             </div>
-         </div>
-         <div class="flex-item">
-            <div class="card">
-              <div class="icon">
-               <img src="https://uxwing.com/wp-content/themes/uxwing/download/19-e-commerce-currency-shopping/cart-plus.svg" loading="lazy" height="25" width="25">
+          </div>
+       </div>
+
+       <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4" style="margin-bottom: 20px;">
+
+        <div class="col">
+          <div class="infocard">
+            <h3>Trusted by a growing number of individuals, our services have garnered the confidence and positive feedback of many satisfied customers.
+              </h3>
+              <div style="text-align: end;">
+                <a href="#"><span class="circleOrange">4</span></a>
               </div>
-               <h3>Trusted by more People</h3>
-               <p>
-                  Lorem Ipsum has been the industry's standard dummy text ever since 
-               </P>
+          </div>
+        </div>
+
+        <div class="col">
+          <div class="infocard">
+            <h3>With a substantial worldwide customer base, we pride ourselves on the multitude of positive reviews, reflecting our commitment to quality service.</h3> 
+            <div style="text-align: end;">
+              <a href="#"><span class="circleOrange">5</span></a>
             </div>
-         </div>
-         <div class="flex-item">
-            <div class="card">
-              <div class="icon">
-               <img src="https://uxwing.com/wp-content/themes/uxwing/download/19-e-commerce-currency-shopping/wifi-internet-bill.svg" loading="lazy" height="25" width="25"></div>
-               <h3>Invoicing</h3>
-               <p>
-                  Lorem Ipsum has been the industry's standard dummy text ever since 
-               </P>
+          </div>
+        </div>
+
+        <div class="col">
+          <div class="infocard">
+            <h3>Experience affordability with our reasonable prices, ensuring that our high-quality translation services are accessible to a broad spectrum of clients.</h3>
+            <div style="text-align: end;">
+              <a href="#"><span class="circleOrange">6</span></a>
             </div>
-         </div>
-    <div class="flex-item">
-            <div class="card">
-              <div class="icon">
-               <img src="https://uxwing.com/wp-content/themes/uxwing/download/16-banking-finance/payment.svg" loading="lazy" height="25" width="25"></div>
-               <h3>Recurring Payment</h3>
-               <p>
-                  Lorem Ipsum has been the industry's standard dummy text ever since 
-               </P>
-            </div>
-         </div>
+          </div>
+        </div>
+
       </div>
-   </div>
-   
+
+      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4" style="margin-bottom: 20px;">
+
+        <div class="col">
+          <div class="infocard">
+            <h3>Rest assured in our 100% trusted service, where document secrecy is of utmost priority, ensuring the confidentiality and integrity of your sensitive information.
+              </h3>
+              <div style="text-align: end;">
+                <a href="#"><span class="circleOrange">7</span></a>
+              </div>
+          </div>
+        </div>
+
+        <div class="col">
+          <div class="infocard">
+            <h3>As part of our commitment to excellence, we offer complimentary editing, proofreading, typesetting, enhancing the overall quality of your translated documents.</h3> 
+            <div style="text-align: end;">
+              <a href="#"><span class="circleOrange">8</span></a>
+            </div>
+          </div>
+        </div>
+
+        <div class="col">
+          <div class="infocard">
+            <h3>Take advantage of our convenient proofreading service, allowing you to review and refine your documents from the comfort of your home or place of choice.</h3>
+            <div style="text-align: end;">
+              <a href="#"><span class="circleOrange">9</span></a>
+            </div>
+          </div>
+        </div>
+        
+      </div>
+
+      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4" style="margin-bottom: 20px;">
+
+        <div class="col">
+          <div class="infocard">
+            <h3>Experience prompt and efficient service without compromising on quality, as we strive to deliver accurate translations in a timely manner.</h3>
+            <div style="text-align: end;">
+              <a href="#"><span class="circleOrange">10</span></a>
+            </div>
+          </div>
+        </div>
+
+        <div class="col">
+          <div class="infocard">
+            <h3>Our commitment to accessibility is showcased through our 24/7 availability, providing fast and reliable service 365 days a year.</h3> 
+            <div style="text-align: end;"><br>
+              <a href="#"><span class="circleOrange">11</span></a>
+            </div>
+          </div>
+        </div>
+
+        <div class="col">
+          <div class="infocard">
+            <h3>Conveniently receive your translations with our island-wide delivery service, utilizing Courier or Speed Post options for a seamless and secure process.</h3>
+            <div style="text-align: end;">
+              <a href="#"><span class="circleOrange">12</span></a>
+            </div>
+          </div>
+        </div>
+        
+      </div>
+    </div>
   </section>
+
   <section class="ftco-section" id="blog-section">
     <div class="container">
       <div class="row justify-content-center mb-5 pb-5">
