@@ -1703,12 +1703,12 @@ h1, h2, h3, h5,
   z-index: 3; }
   @media (max-width: 991.98px) {
     .ftco-navbar-light {
-      background: #000000 !important;
+      background: transparent !important;
       position: relative;
       top: 0;
       padding-top: 0;
       padding-bottom: 0;
-      padding-left: 15px;
+      padding-left: 25px;
       padding-right: 15px; } }
   .ftco-navbar-light .container {
     width: 1110px;
@@ -2892,4 +2892,42 @@ textarea.form-control {
     transition: all 200ms ease-in-out; 
   }
 
+  /* table */
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 20px 0;
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    }
+
+    th, td {
+        padding: 15px;
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+    }
+
+    th {
+        background-color: #b41200;
+        color: #fff;
+    }
+
+    tr:hover {
+        background-color: #f9d1c7;
+        color: #000;
+    }
+
+    @media screen and (max-width: 600px) {
+        th, td {
+            padding: 10px;
+        }
+    }
+
+    .tableContainer {
+      max-width: 1000px;
+      margin: 20px auto;
+      background-color: #fff;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+      border-radius: 8px;
+      overflow: hidden;
+    }
   

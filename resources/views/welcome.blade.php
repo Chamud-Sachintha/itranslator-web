@@ -63,7 +63,7 @@ h3{
   <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light site-navbar-target"
     id="ftco-navbar">
     <div class="container">
-      <a class="navbar-brand" href="index.html"><img src="images/i translate logo.png" alt="logo" style ="max-width:70px;"></a>
+      <a class="navbar-brand" href="index.html"><img src="images/i translate logo.png" alt="logo" style ="max-width:60px;"></a>
       <button class="navbar-toggler js-fh5co-nav-toggle fh5co-nav-toggle" type="button" data-toggle="collapse"
         data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="oi oi-menu"></span> Menu
@@ -655,15 +655,134 @@ h3{
 
   <section class="ftco-section" id="blog-section">
     <div class="container">
-      <div class="row justify-content-center mb-5 pb-5">
+      <div class="row justify-content-center pb-5">
         <div class="col-md-10 heading-section text-center ftco-animate">
           <span class="subheading">Our Prices for Translation</span>
           <h2 class="mb-4">Our Prices for Translation</h2>
-          <p>with hard copy & soft copy</p>
+          <p>With hard copy & soft copy</p>
         </div>
       </div>
-      <div class="row d-flex">
-        
+      <div class="tableContainer">
+      <table>
+        <thead>
+        <tr>
+            <th>Item Description</th>
+            <th>Fast Service<br>(2 working days)</th>
+            <th>Express Service<br>(1 working day)</th>
+            <th>Express Service<br>(4 hours)</th>
+        </tr>
+        </thead>
+        <tbody>
+            <tr>
+              <td>One Birth Certificate</td>
+              <td>Rs.1000</td>
+              <td>Rs.1200</td>
+              <td>Rs.2000</td>
+            </tr>
+            <tr>
+              <td>One Marriage Certificate</td>
+              <td>Rs.1000</td>
+              <td>Rs.1200</td>
+              <td>Rs.2000</td>
+            </tr>
+            <tr>
+              <td>One Death Certificate</td>
+              <td>Rs.1000</td>
+              <td>Rs.1200</td>
+              <td>Rs.2000</td>
+            </tr>
+            <tr>
+              <td>One National Identity Card</td>
+              <td>Rs.500</td>
+              <td>Rs.700</td>
+              <td>Rs.1000</td>
+            </tr>
+            <tr>
+              <td>One Exam Result Sheet</td>
+              <td>Rs.1000</td>
+              <td>Rs.1200</td>
+              <td>Rs.2000</td>
+            </tr>
+            <tr>
+              <td>One Page of Police Report</td>
+              <td>Rs.1000</td>
+              <td>Rs.1200</td>
+              <td>Rs.2000</td>
+            </tr>
+            <tr>
+              <td>One Page of Affidavit</td>
+              <td>Rs.1000</td>
+              <td>Rs.1200</td>
+              <td>Rs.2000</td>
+            </tr>
+            <tr>
+              <td>One Page of other exams Certificate</td>
+              <td>Rs.1000</td>
+              <td>Rs.1200</td>
+              <td>Rs.2000</td>
+            </tr>
+            <tr>
+              <td>One school Leaving Certificate</td>
+              <td>Rs.1000</td>
+              <td>Rs.1200</td>
+              <td>Rs.2000</td>
+            </tr>
+            <tr>
+              <td>One any Other certificate</td>
+              <td>Rs.1000</td>
+              <td>Rs.1200</td>
+              <td>Rs.2000</td>
+            </tr>
+            <tr>
+              <td>One Grama Niladhari Certificate</td>
+              <td>Rs.1000</td>
+              <td>Rs.1200</td>
+              <td>Rs.2000</td>
+            </tr>
+            <tr>
+              <td>One Page of Character Certificate</td>
+              <td>Rs.1000</td>
+              <td>Rs.1200</td>
+              <td>Rs.2000</td>
+            </tr>
+            <tr>
+              <td>One Page of Deed (Gift, Transfer, Lease, Mortgage)</td>
+              <td>Rs.800</td>
+              <td>Rs.1000</td>
+              <td>Rs.1600</td>
+            </tr>
+            <tr>
+              <td>One Page of Deed (Declaration, Partition and Others)</td>
+              <td>Rs.1000</td>
+              <td>Rs.1200</td>
+              <td>Rs.1800</td>
+            </tr>
+            <tr>
+              <td>One Page of Title Report</td>
+              <td>Rs.800</td>
+              <td>Rs.1000</td>
+              <td>Rs.1600</td>
+            </tr>
+            <tr>
+              <td>One Page of A4 Size<br>All types of legal / Other Documents.</td>
+              <td>Rs.1000</td>
+              <td>Rs.1200</td>
+              <td>Rs.2000</td>
+            </tr>
+            <tr>
+              <td>One Page of A4 Size<br>Checking and certifying the Documents translated by you.</td>
+              <td>Rs.500</td>
+              <td>Rs.700</td>
+              <td>Rs.1000</td>
+            </tr>
+            <tr>
+              <td>One Page of A4 Size<br>certifying Documents translated by you.<br>(without Checking)</td>
+              <td>Rs.300</td>
+              <td>Rs.300</td>
+              <td>Rs.500</td>
+            </tr>
+        </tbody>
+    </table>
       </div>
     </div>
   </section>
@@ -731,12 +850,13 @@ h3{
         </div>
         <div class="col-md-6 d-flex">
           <div class="col-md-6 col-lg-6 d-flex">
-            <img src="images/Contact02.jpg" alt="">
+            <img src="images/Contact02.jpg" alt="" style="max-height: 620px; min-width: 550px; object-fit: cover;">
           </div>
         </div>
       </div>
     </div>
   </section>
+
   <footer class="ftco-footer ftco-section">
     <div class="container">
       <div class="row mb-5">
