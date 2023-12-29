@@ -198,7 +198,7 @@ h3{
         <div class="col-md-6 col-lg-6 d-flex">
           <div class="img-about img d-flex align-items-stretch">
             <div class="img d-flex align-self-stretch align-items-end"
-              style="background-image:url(images/about-1.jpg);">
+              style="background-image:url(images/testimonial.jpg);">
             </div>
           </div>
         </div>
@@ -315,7 +315,7 @@ h3{
               <a class="nav-link px-4 py-1" id="v-pills-14-tab" data-toggle="pill" href="#v-pills-14" role="tab"
               aria-controls="v-pills-14" aria-selected="false"><span class="mr-3 flaticon-ux-design"></span> Character Certificates </a>
               <a class="nav-link px-4 py-1" id="v-pills-15-tab" data-toggle="pill" href="#v-pills-15" role="tab"
-              aria-controls="v-pills-15" aria-selected="false"><span class="mr-3 flaticon-ux-design"></span> All Types of Legal/Other Documents </a>
+              aria-controls="v-pills-15" aria-selected="false"><span class="mr-3 flaticon-ux-design"></span> Other Documents </a>
           </div>
         </div>
         <div class="col-md-7 col-lg-9 ftco-animate p-4 p-md-5 d-flex align-items-center">
@@ -683,7 +683,7 @@ h3{
               <span class="icon-map-signs"></span>
             </div>
             <h3 class="mb-4">Address</h3>
-            <p>198 West 21th Street, Suite 721 New York NY 10016</p>
+            <p><a href="#">No.71/D , 1St Floor , High Level Plaza , Delkanda , Nugegoda, Sri Lanka.</a></p>
           </div>
         </div>
         <div class="col-md-6 col-lg-3 d-flex ftco-animate">
@@ -692,7 +692,9 @@ h3{
               <span class="icon-phone2"></span>
             </div>
             <h3 class="mb-4">Contact Number</h3>
-            <p><a href="tel://1234567920">+ 1235 2355 98</a></p>
+            <p><a href="tel://1234567920">+94 11 282 6212</a></p>
+            <p><a href="tel://1234567920">+94 71 362 3018</a></p>
+            <p><a href="tel://1234567920">+94 71 717 7099</a></p>
           </div>
         </div>
         <div class="col-md-6 col-lg-3 d-flex ftco-animate">
@@ -701,17 +703,9 @@ h3{
               <span class="icon-paper-plane"></span>
             </div>
             <h3 class="mb-4">Email Address</h3>
-            <p><a href="/cdn-cgi/l/email-protection#b2dbdcd4ddf2cbddc7c0c1dbc6d79cd1dddf"><span class="__cf_email__"
-                  data-cfemail="462f282029063f293334352f32236825292b">[email�&nbsp;protected]</span></a></p>
-          </div>
-        </div>
-        <div class="col-md-6 col-lg-3 d-flex ftco-animate">
-          <div class="align-self-stretch box p-4 text-center">
-            <div class="icon d-flex align-items-center justify-content-center">
-              <span class="icon-globe"></span>
-            </div>
-            <h3 class="mb-4">Website</h3>
-            <p><a href="#">yoursite.com</a></p>
+            <p><a href="#">itranslate.lk@gmail.com</a></p>
+            <p><a href="#">info@itranslate.lk</a></p>
+            <p><a href="#">ranepuradb@gmail.com</a></p>
           </div>
         </div>
       </div>
@@ -736,7 +730,9 @@ h3{
           </form>
         </div>
         <div class="col-md-6 d-flex">
-          <div id="map" class="bg-white"></div>
+          <div class="col-md-6 col-lg-6 d-flex">
+            <img src="images/Contact02.jpg" alt="">
+          </div>
         </div>
       </div>
     </div>
@@ -746,9 +742,8 @@ h3{
       <div class="row mb-5">
         <div class="col-md">
           <div class="ftco-footer-widget mb-4">
-            <h2 class="ftco-heading-2">About <span>Neutral</span></h2>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the
-              blind texts.</p>
+            <h2 class="ftco-heading-2">About <span>Itranslate.lk</span></h2>
+            <p>Your go-to for quick and seamless document translation services in Sri Lanka and worldwide, perfect for all your international needs.</p>
           </div>
         </div>
         <div class="col-md">
@@ -768,13 +763,9 @@ h3{
           <div class="ftco-footer-widget mb-4">
             <h2 class="ftco-heading-2">Practice Areas</h2>
             <ul class="list-unstyled">
-              <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Family Law</a></li>
-              <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Business Law</a></li>
-              <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Insurance Law</a></li>
-              <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Criminal Law</a></li>
-              <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Drug Offenses</a></li>
-              <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Property Law</a></li>
-              <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Employment Law</a></li>
+              <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Terms and Conditions</a></li>
+              <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Privacy policy</a></li>
+              <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Information</a></li>
             </ul>
           </div>
         </div>
@@ -783,11 +774,9 @@ h3{
             <h2 class="ftco-heading-2">Have a Questions?</h2>
             <div class="block-23 mb-0">
               <ul>
-                <li><span class="icon icon-map-marker"></span><span class="text">203 Fake St. Mountain View, San
-                    Francisco, California, USA</span></li>
-                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+2 392 3929 210</span></a></li>
-                <li><a href="#"><span class="icon icon-envelope"></span><span class="text"><span class="__cf_email__"
-                        data-cfemail="472e292128073e28323523282a262e296924282a">[email�&nbsp;protected]</span></span></a>
+                <li><span class="icon icon-map-marker"></span><span class="text">No.71/D , 1St Floor , High Level Plaza , Delkanda , Nugegoda, Sri Lanka.</span></li>
+                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+94 71 717 7099</span></a></li>
+                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">info@itranslate.lk</span></a>
                 </li>
               </ul>
             </div>
@@ -804,9 +793,9 @@ h3{
           <p>
             Copyright ©
             <script data-cfasync="false" src="js/email-decode.min.js"></script>
-            <script>document.write(new Date().getFullYear());</script>2023 All rights reserved | This template is made
-            with <i class="icon-heart color-danger" aria-hidden="true"></i> by <a href="https://colorlib.com"
-              target="_blank">Colorlib</a>
+            <script>document.write(new Date().getFullYear());</script>2023 All rights reserved | Design & Developed By
+            with by <a href="https://builtonus.com/"
+              target="_blank">Built On Us.</a>
           </p>
         </div>
       </div>
