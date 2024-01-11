@@ -76,7 +76,7 @@ h3{
           <li class="nav-item"><a href="#attorneys-section" class="nav-link"><span>Attorneys</span></a></li>
           <li class="nav-item"><a href="#blog-section" class="nav-link"><span>Blog</span></a></li>
           <li class="nav-item"><a href="#contact-section" class="nav-link"><span>Contact</span></a></li>
-          <li class="nav-item cta"><a href="#" class="nav-link" data-toggle="modal"
+          <li class="nav-item cta"><a href="https://dashboard.itranslate.lk" class="nav-link" data-toggle="modal"
               data-target="#modalAppointment">Request a quote</a></li>
         </ul>
       </div>
